@@ -20,7 +20,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 ### ✉️ Contato:
 - **Email:** seu.email@email.com
-- **LinkedIn:** [Meu perfil](www.linkedin.com/in/luisbsb23)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/luisbsb23)
 - **Portfólio:** Em breve!!! 
 
 ---
