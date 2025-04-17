@@ -19,7 +19,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 - Em breve!!!
 
 ### ✉️ Contato:
-- **Email:** seu.email@email.com
+- **Email:** luis986689@gmail.com
 - **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/luisbsb23)
 - **Portfólio:** Em breve!!! 
 
