@@ -20,6 +20,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 ### ✉️ Contato:
 - **Email:** luis986689@gmail.com
+- **Instagram** [luisinn.061](https://www.instagram.com/luisinn.061?igsh=bHA0YjVjODBuZTRs)
 - **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/luisbsb23)
 - **Portfólio:** Em breve!!! 
 
