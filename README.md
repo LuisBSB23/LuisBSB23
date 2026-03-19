@@ -10,13 +10,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 - **Versionamento:** Git e GitHub
 - **Extras:** Figma, GitHub Pages
 
-### 📚 Atualmente aprendendo:
-- JavaScript moderno (ES6+)
-- Python
-- MySql
 
 ### 📌 Projetos em destaque:
-- Em breve!!!
+- Projeto MedControll
 
 ### ✉️ Contato:
 - **Email:** luis986689@gmail.com
