@@ -13,6 +13,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 ### 📌 Projetos em destaque:
 - Projeto MedControll
+- Projeto TalentBrigde
 
 ### ✉️ Contato:
 - **Email:** luis986689@gmail.com
