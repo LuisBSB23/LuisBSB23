@@ -1,6 +1,6 @@
 # Olá! Eu sou Luis Otávio 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento web e aprendizado constante. Estou sempre em busca de novos desafios que me ajudem a crescer como desenvolvedor.
+Sou formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento web e aprendizado constante. Estou sempre em busca de novos desafios que me ajudem a crescer como desenvolvedor.
 
 ### 🚀 Tecnologias que estou estudando:
 
